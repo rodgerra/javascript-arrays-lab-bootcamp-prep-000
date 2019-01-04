@@ -1,1 +1,1 @@
-var []
+var kittens['Milo', 'Otis', 'Garfield'];

@@ -6,3 +6,7 @@ var kittens = ['Milo', 'Otis', 'Garfield'];
 function destructivelyPrependKitten(name) {
   kittens.unshift(name);
 }
+var kittens = ['Milo', 'Otis', 'Garfield'];
+function destructivelyRemoveLastKitten(name) {
+  kittens.pop(name);
+}
